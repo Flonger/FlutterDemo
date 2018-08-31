@@ -1,0 +1,4 @@
+#Fri Jun 22 15:06:24 CST 2018
+base.0=/Users/Flonger/Desktop/flutter/Demo/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
